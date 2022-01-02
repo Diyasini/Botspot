@@ -1,0 +1,650 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  position: absolute;
+  width: 411px;
+  height: 845px;
+  left: 0px;
+  top: 0px;
+
+  background: linear-gradient(
+    244.54deg,
+    rgba(0, 153, 255, 0.42) 5.48%,
+    rgba(110, 76, 255, 0.755) 62.63%,
+    #db00ff 109.63%
+  );
+}
+
+.navbar ul {
+  position: relative;
+  display: flex;
+  list-style: none;
+  float: right;
+  margin-left: 241px;
+  margin-top: 11px;
+}
+
+.navbar ul li {
+  display: flex;
+  padding-left: 20px;
+  padding-right: 5px;
+}
+
+.navbar h1 {
+  position: absolute;
+  width: 109px;
+  height: 21px;
+  left: 11px;
+  top: 21px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+.call {
+  color: #ffffff;
+}
+
+.bars {
+  color: #ffffff;
+}
+
+.search {
+  color: #ffffff;
+}
+
+.text h1 {
+  position: absolute;
+  width: 329px;
+  height: 44px;
+  left: 30px;
+  top: 95px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #ffffff;
+}
+
+.text h3 {
+  position: absolute;
+  width: 237px;
+  height: 21px;
+  left: 74px;
+  top: 137px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.text .play {
+  position: absolute;
+  left: 49.39%;
+  right: 40.88%;
+  top: 100px;
+  bottom: 94.71%;
+  color: rgba(255, 255, 255, 0.88);
+  font-size: 40px;
+}
+
+.rectangle {
+  position: absolute;
+  width: 300px;
+  height: 92px;
+  left: 64px;
+  top: 176px;
+
+  background: linear-gradient(
+    250.8deg,
+    #ffffff 3.87%,
+    #e1c2e7 31.78%,
+    #9bd1dd 47.66%,
+    #e8b4f0 63.06%,
+    #ffffff 96.27%
+  );
+  border-radius: 15px;
+}
+
+.group6 {
+  position: absolute;
+  width: 374px;
+  height: 48px;
+  left: 28px;
+  top: 286px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+
+  color: #ffffff;
+}
+
+.knowmore {
+  position: absolute;
+  width: 151px;
+  height: 41px;
+  left: 28px;
+  top: 388px;
+
+  border: 3px solid #ffffff;
+  border-radius: 20px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.know h2 {
+  position: absolute;
+  width: 84px;
+  height: 17px;
+  left: 61px;
+  top: 400px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.contactus {
+  position: absolute;
+  width: 151px;
+  height: 41px;
+  left: 220px;
+  top: 388px;
+
+  border: 3px solid #ffffff;
+  border-radius: 20px;
+}
+
+.contact h3 {
+  position: absolute;
+  width: 81px;
+  height: 17px;
+  left: 255px;
+  top: 400px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.rect1 {
+  position: absolute;
+  width: 370px;
+  height: 364px;
+  left: 0px;
+  top: 481px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+}
+
+.text1 {
+  position: absolute;
+  width: 334px;
+  height: 95px;
+  left: 22px;
+  top: 522px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #000000;
+}
+
+.start {
+  position: absolute;
+  width: 212.87px;
+  height: 41px;
+  left: 22px;
+  top: 651px;
+
+  border: 3px solid #000000;
+  border-radius: 20px;
+}
+
+.started h3 {
+  position: absolute;
+  width: 210.84px;
+  height: 17px;
+  left: 41.16px;
+  top: 663px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.services h3 {
+  position: absolute;
+  width: 198.1px;
+  height: 17px;
+  left: 40px;
+  top: 738px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.Service {
+  position: absolute;
+  width: 180px;
+  height: 41px;
+  left: 22px;
+  top: 726px;
+
+  border: 3px solid #000000;
+  border-radius: 20px;
+}
+
+.content {
+  position: absolute;
+  width: 343px;
+  height: 176px;
+  left: 30px;
+  top: 881px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #3a3a3a;
+}
+
+.Serve {
+  position: absolute;
+  width: 370px;
+  height: 143px;
+  left: -2px;
+  top: 1099px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+}
+.serve-h3 {
+  position: absolute;
+  width: 221px;
+  height: 29px;
+  left: 70px;
+  top: 1156px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+
+  color: #000000;
+}
+.content2 {
+  position: absolute;
+  width: 343px;
+  height: 154px;
+  left: 30px;
+  top: 1289px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #3a3a3a;
+}
+
+.fi h3 {
+  position: absolute;
+  width: 285px;
+  height: 10.49px;
+  left: 71px;
+  top: 1537px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.fi i {
+  position: absolute;
+  left: 171px;
+  right: 171px;
+  top: 1491px;
+  bottom: 1115px;
+  font-size: 35px;
+  color: rgba(255, 0, 184, 0.69);
+}
+
+.rect2 {
+  position: absolute;
+  width: 350px;
+  height: 100px;
+  left: 31px;
+  top: 1476px;
+
+  border: 3px solid #ce70ff;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.transport svg {
+  position: absolute;
+  width: 350px;
+  height: 100px;
+  left: 31px;
+  top: 2459px;
+
+  border: 3px solid #ce70ff;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.transport h3 {
+  position: absolute;
+  width: 285px;
+  height: 10.49px;
+  left: 67px;
+  top: 2520px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.entertainment svg {
+  position: absolute;
+  width: 350px;
+  height: 100px;
+  left: 31px;
+  top: 2319px;
+
+  border: 3px solid #ce70ff;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.entertainment h3 {
+  position: absolute;
+  width: 285px;
+  height: 10.49px;
+  left: 67px;
+  top: 2380px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.ER svg {
+  position: absolute;
+  width: 350px;
+  height: 100px;
+  left: 31px;
+  top: 2175px;
+
+  border: 3px solid #ce70ff;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.ER h3 {
+  position: absolute;
+  width: 285px;
+  height: 10.49px;
+  left: 67px;
+  top: 2236px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.Education svg {
+  position: absolute;
+  width: 350px;
+  height: 100px;
+  left: 31px;
+  top: 2036px;
+
+  border: 3px solid #ce70ff;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.Education h3 {
+  position: absolute;
+  width: 285px;
+  height: 10.49px;
+  left: 67px;
+  top: 2097px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.wr svg {
+  position: absolute;
+  width: 350px;
+  height: 100px;
+  left: 31px;
+  top: 1896px;
+
+  border: 3px solid #ce70ff;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.wr h3 {
+  position: absolute;
+  width: 285px;
+  height: 10.49px;
+  left: 67px;
+  top: 1957px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.construction svg {
+  position: absolute;
+  width: 350px;
+  height: 100px;
+  left: 30px;
+  top: 1756px;
+
+  border: 3px solid #ce70ff;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.construction .icon {
+  position: absolute;
+  left: 185px;
+  right: 184px;
+  top: 1771px;
+  bottom: 833px;
+  font-size: 35px;
+  color: #808080;
+}
+.construction h3 {
+  position: absolute;
+  width: 285px;
+  height: 10.49px;
+  left: 66px;
+  top: 1817px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.Healthcare svg {
+  position: absolute;
+  width: 350px;
+  height: 100px;
+  left: 31px;
+  top: 1616px;
+
+  border: 3px solid #ce70ff;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+.Healthcare h3 {
+  position: absolute;
+  width: 285px;
+  height: 10.49px;
+  left: 67px;
+  top: 1677px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.Education i {
+  position: absolute;
+  left: 183px;
+  right: 185px;
+  top: 2051px;
+  bottom: 552px;
+  font-size: 35px;
+  color: #248fb0;
+}
+
+.entertainment i {
+  position: absolute;
+  left: 190px;
+  right: 168px;
+  top: 2340px;
+  bottom: 265px;
+  font-size: 35px;
+  color: #24d2d2;
+}
+
+.wr i {
+  position: absolute;
+  left: 186px;
+  right: 172px;
+  top: 1905px;
+  font-size: 35px;
+  color: #e67105;
+}
+
+.Healthcare i {
+  position: absolute;
+  left: 186px;
+  right: 172px;
+  top: 1630px;
+  font-size: 35px;
+  color: red;
+}
+
+.ER i {
+  position: absolute;
+  left: 186px;
+  right: 172px;
+  top: 2190px;
+  font-size: 35px;
+  color: yellow;
+}
+
+.transport i {
+  position: absolute;
+  left: 186px;
+  right: 172px;
+  top: 2470px;
+  font-size: 35px;
+  color: #e67105;
+}
